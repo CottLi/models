@@ -1,3 +1,9 @@
+****
+这些例子包括使用预训练的模型进行图片分类和目标检测，并且使用TensorFlow的Java API驱动整个预定义的模型．
+
+Python将是定义模型数值计算的最方便的模型
+****
+
 # TensorFlow for Java: Examples
 
 These examples include using pre-trained models for [image
